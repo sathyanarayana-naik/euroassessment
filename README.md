@@ -2,7 +2,9 @@
 
 Prerequisites
 1.Install Azure CLI
-2.Login to Azure: `az login`
+
+2.Login to Azure: 'az login'
+
 3.Set the desired subscription: `az account set --subscription <subscription_id>`
 
 Deployment Steps
@@ -18,9 +20,14 @@ Deployment Steps
 
 Parameters
 dnsServers: Option to set default or custom DNS
+
 nsgAssociation: Option to associate Network Security Groups
+
 serviceEndpoints: Option to enable service endpoints on subnets
 
+
+
+![image](https://github.com/user-attachments/assets/bfa87421-af09-47fc-b4a6-b3dfaf197b69)
 
 
 Powershell script execution:
