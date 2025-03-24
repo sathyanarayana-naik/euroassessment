@@ -26,7 +26,7 @@ nsgAssociation: Option to associate Network Security Groups
 serviceEndpoints: Option to enable service endpoints on subnets
 
 Powershell script execution:
-1. Ppen windows powershell->navigate to script path
+1. Open windows powershell->navigate to script path
 2. Run ./powershellinstall.ps1
 
 
